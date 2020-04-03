@@ -10,6 +10,6 @@ function iterate(cb) {
   return arr
 }
 
-function doToArray() {
-
+function doToArray(arr, cb) {
+  arr.forEach(cb)
 }
