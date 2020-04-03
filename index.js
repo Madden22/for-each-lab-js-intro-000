@@ -4,4 +4,12 @@ function iterativeLog(arr) {
   })
 }
 
-iterat
+function iterate(cb) {
+  var arr = [1,2,3,4]
+  arr.forEach(cb)
+  return arr
+}
+
+function doToArray() {
+  
+}
