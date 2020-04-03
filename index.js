@@ -11,5 +11,5 @@ function iterate(cb) {
 }
 
 function doToArray() {
-  
+
 }
